@@ -1,6 +1,6 @@
 # 示例地图：三岔河（Sample Map: Three Fords）
 
-《潮汐战线》（Tidemark）的一个扩展，也是 [DSH 游戏商店](https://dsh-game-store.com)插件工坊的第一个条目。它给游戏加一张 14×10 的两方小地图。
+《潮汐战线》（Tidemark）的一个扩展，也是 [DSH 游戏商店](https://dsh-game-store.com)插件工坊的第一个条目。它给游戏加一张 14×10 的 1v1 小地图。
 
 装法：在 DSH 的游戏商店里打开《潮汐战线》的游戏页，在“插件工坊”里点“安装”，再开始游戏。
 
