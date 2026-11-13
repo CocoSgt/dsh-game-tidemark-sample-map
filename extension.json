@@ -1,0 +1,14 @@
+{
+  "spec": 1,
+  "id": "sample-map",
+  "game": "tidemark",
+  "gameVersion": "1.x",
+  "types": ["map"],
+  "name": { "en": "Sample Map: Three Fords", "zh": "示例地图：三岔河" },
+  "summary": {
+    "en": "A small 14×10 map for two factions: one bridge in the middle, a ford above and below.",
+    "zh": "一张 14×10 的两方小地图：中间一座桥，上下两处浅滩。"
+  },
+  "author": { "name": "CocoSgt", "url": "https://github.com/CocoSgt" },
+  "files": "mod"
+}

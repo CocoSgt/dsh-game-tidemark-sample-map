@@ -1,0 +1,19 @@
+{
+  "name": "dsh-game-tidemark-sample-map",
+  "version": "1.0.0",
+  "description": "Three Fords (三岔河): a small two-faction sample map for Tidemark, from the DSH Game Store workshop",
+  "license": "MIT",
+  "author": "CocoSgt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CocoSgt/dsh-game-tidemark-sample-map.git"
+  },
+  "keywords": ["dsh", "dsh-game", "dsh-game-extension", "tidemark"],
+  "files": ["mod", "extension.json", "cordis.patch.yml", "README.md", "LICENSE"],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "dshGameExtension": "./extension.json"
+}
